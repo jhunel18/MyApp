@@ -8,7 +8,7 @@ export default function App() {
     <NavigationContainer>
       {/* <StackNavigator /> */}
        {/* <TabNavigator /> */}
-        <DrawerNavigator />
+        {/* <DrawerNavigator /> */}
     </NavigationContainer>
   );
 }
